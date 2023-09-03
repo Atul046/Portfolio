@@ -9,9 +9,9 @@ const Footer = () => {
       <h4>Developed by Atul Raj</h4>
       <h4>Copyright &copy; 2023 AR</h4>
       <div className='footerLinks'>
-        <a href="https://www.linkedin.com/in/atul~raj/" target='_blank'><FaLinkedin/></a>
-        <a href='mailTo:atulraj0710@gmail.com' target='_blank'><GrMail/></a>
-        <a href="https://leetcode.com/atul_001/" target="_blank"><SiLeetcode/></a>
+        <a href="https://www.linkedin.com/in/atul~raj/" target='_blank'  rel="noreferrer"><FaLinkedin/></a>
+        <a href='mailTo:atulraj0710@gmail.com' target='_blank'  rel="noreferrer"><GrMail/></a>
+        <a href="https://leetcode.com/atul_001/" target="_blank"  rel="noreferrer"><SiLeetcode/></a>
       </div>
     </footer>
   )
