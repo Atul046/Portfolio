@@ -15,7 +15,7 @@ const About = () => {
             I'm a <b>Web developer</b> and a final year college student pursuing <b>BTech in CSE</b>. <br/><br/>
             I love to create original projects with beautiful designs, you can check out some of my work in the projects section.<br/><br/>
             I am <b>open</b> to new collaborations or work where I can contribute and grow. Feel free to connect with me, links are in the footer.<br/>
-            Apart from coding I am a probability and Statistics expert on Chegg Platform.
+            Apart from coding I am an <b>Expert</b> on Chegg Platform of Probability and Statistics Subject.
           </p>
         </div>
 
