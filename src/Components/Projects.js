@@ -3,7 +3,7 @@ import ProjectBox from './ProjectBox';
 import NewsletterImage from '../images/NewsletterImage.png';
 import RogfreeImage from '../images/RogfreeImage.png';
 import TindogImage from '../images/TindogImage.png';
-import IconsmatchingImage from '../images/IconsmatchingImage.jpeg';
+import IconsMatchingImage from '../images/IconsMatchingImage.jpeg';
 
 const Projects = () => {
   return (
@@ -13,7 +13,7 @@ const Projects = () => {
         <ProjectBox projectPhoto={NewsletterImage} projectName="Newsletter" />
         <ProjectBox projectPhoto={RogfreeImage} projectName="RogFree" />
         <ProjectBox projectPhoto={TindogImage} projectName="Tindog" />
-        <ProjectBox projectPhoto={IconsmatchingImage} projectName="Iconsmatching" />
+        <ProjectBox projectPhoto={IconsMatchingImage} projectName="IconsMatching" />
       </div>
 
     </div>
