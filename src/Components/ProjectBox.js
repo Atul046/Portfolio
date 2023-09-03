@@ -17,9 +17,9 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     NewsletterGithub:"",
     NewsletterWebsite:"https://newsletter-signup-teal.vercel.app/",
 
-    IconsmatchingDesc:"It is a simple online fun game which contains various levels. It calculates how much time and how many moves by a player to finish the game.",
-    IconsmatchingGithub:"https://github.com/Atul046/Icons_Matching_Game",
-    IconsmatchingWebsite:"https://atul046.github.io/Icons_Matching_Game/"
+    IconsMatchingDesc:"It is a simple online fun game which contains various levels. It calculates how much time and how many moves by a player to finish the game.",
+    IconsMatchingGithub:"https://github.com/Atul046/Icons_Matching_Game",
+    IconsMatchingWebsite:"https://atul046.github.io/Icons_Matching_Game/"
   }
 
   let show ='';
