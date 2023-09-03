@@ -30,11 +30,11 @@ const Home = () => {
           <h1 className='AboutTextHeading'>Brief <b>introduction</b></h1>
           <p>
             I love the process of changing raw ideas into a website or a product 
-            that will people and society. 
-            I want to do work that challenges me as a developer & work that I can 
-            be proud of.<br /><br />
+            that will impact people and society. 
+            I want to do work that challenges me as a developer & that I can 
+            be proud of doing it.<br /><br />
             I am good in problem solving with keen interest in <b>Data Structures and Algorithms</b>.
-            Also, I love to develop web application.<br /><br />
+            Also, I love to develope web application.<br /><br />
             I enjoy <b>Coffee</b> and <b>feeding dogs</b>.<CiCoffeeCup style={{scale:"1.5", rotate:"15deg"}}/>   
           </p>
         </div>
