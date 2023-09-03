@@ -13,7 +13,7 @@ const Projects = () => {
         <ProjectBox projectPhoto={NewsletterImage} projectName="Newsletter" />
         <ProjectBox projectPhoto={RogfreeImage} projectName="RogFree" />
         <ProjectBox projectPhoto={TindogImage} projectName="Tindog" />
-        <ProjectBox projectPhoto={IconsmatchingImage} projectName="Icons Matching Game" />
+        <ProjectBox projectPhoto={IconsmatchingImage} projectName="Iconsmatching" />
       </div>
 
     </div>
